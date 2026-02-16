@@ -7,3 +7,5 @@ Offline, human-raised AI concept with learning, growing, studying, like baby. i 
 我认为saas模式有limit， 下一个好赚的是ticket 模式 / one time payment才对。
 
 我看到很多有knowledge的企业家，开课程，收入不错，但是有眼，变成book . 我像data-market 帮到忙，jaga baby 能吸收。
+
+重要是成长周期，精准度，受控制，学好或学坏能tuning， AI 就是这个人对待。未来可能是一个科技大改变，但是你只能是你，不相信就是不相信，忙就会越忙。
